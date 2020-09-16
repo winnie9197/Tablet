@@ -60,7 +60,8 @@ button {
 	display: flex;
 	justify-content: center;
 	align-items: center;
-	height: 100%
+	height: 100%;
+	font-size: 1rem;
 }
 
 .form-container {
@@ -130,6 +131,7 @@ textarea{
 .contact-fields ul {
 	text-align: left;
 	padding: 0;
+	text-align: right;
 }
 
 .contact-fields ul li {
@@ -140,6 +142,10 @@ textarea{
 	color: #4a6c43;
 }
 
+.contact-fields ul li:last-child h4:first-child {
+	flex: 2 2 18rem;
+}
+
 .contact-field {
 	padding: 0 4rem ;
 	justify-content: space-between;
@@ -147,8 +153,8 @@ textarea{
 	align-items: center; 
 }
 
-.contact-field p:last-child {
-	margin-left: 4rem;
+.contact-field h4:first-child {
+	margin-right: 1rem;
 }
 
 .contact-buttons {
