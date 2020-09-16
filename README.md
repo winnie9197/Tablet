@@ -1,5 +1,5 @@
 # Tablet
-### Tablet keeps track on all your personal connections, hassle and distraction free. 
+### Tablet keeps track of all your personal connections, hassle and distraction free. 
 
 Have you ever:
 - met someone and wish to keep in touch, but didn't end up remembering to do so?
