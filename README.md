@@ -7,7 +7,7 @@ Have you ever:
 - thought of someone who's helped you and wish to pay back, but couldn't remember how you met them?
 - wanted to introduce someone, and ended up having to go through a myriad of social platforms to find their contacts?
 
-### Solution: Simply add a few quick notes to preserve the memory. It'll get linked to each of your contacts.
+### Solution: Simply add a few quick notes to preserve the memory. We'll link them to each of your contacts.
 
 ![Add impression](https://raw.githubusercontent.com/winnie9197/Tablet/master/frontend/public/images/readme/quick-add-contact.png)
 
