@@ -60,7 +60,7 @@ button {
 	display: flex;
 	justify-content: center;
 	align-items: center;
-	height: 100%;
+	height: 100%
 }
 
 .form-container {
@@ -71,6 +71,8 @@ button {
 	border: .1rem #c0c0c0 solid;
 	border-radius: .5rem;
 	list-style-type: none;
+	
+	max-height: 78vh;
 }
 
 .form-container li {

@@ -7,8 +7,8 @@ import './App.css';
 function App() {
   return (
     <BrowserRouter>
-      <header className="header"></header>
       <div className="grid-container">
+        <header className="header"></header>
         <main className="main">
           <Route path="/" exact={true} component={HomeScreen} />
           <Route path="/contact" component={ContactScreen} />
