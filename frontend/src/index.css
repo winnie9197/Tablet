@@ -115,7 +115,7 @@ textarea{
 	border-bottom: .1rem solid;
 }
 
-.contact-header img {
+.contact-image {
 	object-fit: cover;
 	border-radius: 50%;
 	height: 6.25rem;
@@ -161,4 +161,108 @@ textarea{
 	padding: 0 8rem;
 	display: flex;
 	justify-content: space-between;
+}
+
+/* Pocket Screen (An Interaction) */
+.pocket {
+	display: flex;
+	height: 100%;
+	font-size: 1rem;
+	flex-direction: column;
+	align-items: center;
+	padding: 4rem;
+	text-align: left;
+}
+
+.pocket-content {
+	width: 70%;
+	padding: 4rem;
+}
+
+.pocket-content ul {
+	padding: 0;
+}
+
+.pocket-content ul li {
+	list-style-type: none;
+}
+
+.pocket-header {
+	display: flex;
+	flex-direction: row;
+	width: 70%;
+	text-align: left;
+}
+
+.pocket-header div {
+	padding-left: 4rem;
+}
+
+.pocket-header img {
+}
+
+.pocket-info {
+	width: 100%;
+	margin: 0;
+}
+
+.pocket-relationship {
+	line-height: 6rem;
+	padding-left: 2rem;
+}
+
+.pocket-title {
+	text-align: left;
+	margin: 0;
+}
+
+.grey-hint {
+	font-weight: normal;
+	color: #c0c0c0;
+	border: none;
+	background-color: transparent;
+}
+
+.edit-buttons {
+	text-align: right;
+	padding-right: 4rem;
+}
+
+
+/* flex */
+
+.flex-col {
+	display: flex;
+	flex-direction: column;
+}
+
+.flex-row {
+	display: flex;
+	flex-direction: row;
+}
+
+/* Bootstrap Display Font Sizes*/
+.display {
+	font-weight: lighter;
+
+}
+
+.display-1 {
+	font-size: 6rem;
+}
+
+.display-2 {
+	font-size: 5.5rem;
+}
+
+.display-3 {
+	font-size: 4.5rem;
+}
+
+.display-4 {
+	font-size: 3.5rem;
+}
+
+.no-margin {
+	margin: 0;
 }
